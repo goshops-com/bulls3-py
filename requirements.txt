@@ -1,0 +1,14 @@
+# AWS S3 SDK
+boto3==1.26.142
+
+# Azure Blob Storage SDK
+azure-storage-blob==12.16.0
+
+# Asynchronous programming
+asyncio==3.4.3
+
+# For type hinting support
+typing-extensions==4.6.3
+
+# For better async support in Python
+aiohttp==3.8.4
